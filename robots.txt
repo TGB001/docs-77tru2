@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-5zd2z2.haybaleman.co.nz/sitemap.xml
